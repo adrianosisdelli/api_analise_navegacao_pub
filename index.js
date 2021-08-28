@@ -3,7 +3,7 @@ var MySql  = require('sync-mysql');
 
 var app = express();
 var connection_info = {
-    ...
+    //
 };
 
 
