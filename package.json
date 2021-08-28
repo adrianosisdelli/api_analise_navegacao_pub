@@ -1,0 +1,19 @@
+{
+  "name": "api_site",
+  "version": "1.0.0",
+  "description": "Api para captação de informações no site da Pasquali.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+  	"express": "4.x",
+  	"sync-mysql": "3.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\\\\\\\\192.168.2.219\\\\projetos\\\\api_site"
+  },
+  "author": "Adriano S. Costa",
+  "license": "ISC"
+}
